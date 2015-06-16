@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Atmu Tablet Test</string>
+
+    <string name="action_set_tube">Set Tube</string>
+    <string name="action_set_LED">Set LEDs</string>
+    <string name="action_set_preset">Use Preset</string>
+    <string name="action_connect_BT">Connect</string>
+    <string name="action_settings">Settings</string>
+</resources>
