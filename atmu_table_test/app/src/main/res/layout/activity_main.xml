@@ -40,6 +40,14 @@
                 android:textColor="@android:color/background_light"
                 android:text="@string/action_set_tube" />
 
+            <!-- <Button
+                android:id="@+id/btn"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/background_light"
+                android:text="@string/"/> -->
+
     </LinearLayout>
 
     <AbsoluteLayout
